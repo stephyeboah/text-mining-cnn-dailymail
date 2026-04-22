@@ -31,6 +31,7 @@ Paste any news article and the app will classify it against the LDA, LSA, and BE
 ## 📂 Repository Structure
 
 ```
+├── TEST_MINING_PROJECT.pdf Report.
 ├── topic-modelling.ipynb          # Topic modeling: LDA, LSA, BERTopic (hyperparameter tuning + evaluation)
 ├── text-summarisation-graph.ipynb # Extractive summarization: TextRank + Word2Vec
 └── README.md
